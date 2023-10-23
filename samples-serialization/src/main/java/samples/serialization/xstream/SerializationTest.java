@@ -19,6 +19,7 @@ public class SerializationTest {
         System.out.println(xml);
 
         Person np = (Person)xstream.fromXML(xml);
+        System.out.println(np);
 
     }
 

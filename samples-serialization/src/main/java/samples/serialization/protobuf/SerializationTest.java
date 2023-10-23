@@ -1,3 +1,4 @@
+/*
 package samples.serialization.protobuf;
 
 
@@ -7,11 +8,13 @@ import message.Person;
 
 import java.io.*;
 
+*/
 /**
  * @Description:
  * @author: huazhongming
  * @Date: Created in 2021/1/17 7:14 下午
- */
+ *//*
+
 public class SerializationTest {
 
     public static void main(String[] args) {
@@ -40,3 +43,4 @@ public class SerializationTest {
 
 
 }
+*/
